@@ -21,3 +21,10 @@ In addition, it can analyze the file and generate the following output using FIV
 # YouTube Presentation
 
 # References
+https://www.wikihow.tech/Create-a-Maven-Project-in-Eclipse
+https://www.mkyong.com/java/pdfbox-how-to-read-pdf-file-in-java/
+https://stackoverflow.com/questions/4784825/how-to-read-pdf-files-using-java
+https://codesjava.com/itext-read-pdf-file-in-java
+https://stackoverflow.com/questions/23813727/how-to-extract-text-from-a-pdf-file-with-apache-pdfbox
+https://www.tutorialspoint.com/pdfbox/pdfbox_reading_text.htm
+https://www.tutorialkart.com/pdfbox/extract-text-line-by-line-from-pdf/
